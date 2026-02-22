@@ -54,3 +54,4 @@
 - 🔄 Performed **SPAU/SPDD** activities during SAP upgrade projects
 
 ---
+<p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
