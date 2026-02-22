@@ -54,17 +54,3 @@
 - 🔄 Performed **SPAU/SPDD** activities during SAP upgrade projects
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KedareswarG&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KedareswarG&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
